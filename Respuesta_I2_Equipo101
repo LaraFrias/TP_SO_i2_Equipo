@@ -1,5 +1,13 @@
 Lara Frias - Agustina Gonzalez Oviedo - Juan Castro  
 
+a- Utilizando los comandos: "git fetch upstream" y "git merge upstream/main" para incorporar los cambios del repositorio original.
+
+b- si puede hacerlo agregando el repositorio de GAMMA como remoto.
+
+c- si puede hacerlo agregando el repo de ALFA como remoto.
+
+d- no, no se pierden los datos si actualizas el fork.
+
 e- los comandos necesarios son:
 cd TP_SO_i2_Equipo
 git clone <URL_FORK>
