@@ -7,3 +7,19 @@ b- si puede hacerlo agregando el repositorio de GAMMA como remoto.
 c- si puede hacerlo agregando el repo de ALFA como remoto.
 
 d- no, no se pierden los datos si actualizas el fork.
+
+e- los comandos necesarios son:
+cd TP_SO_i2_Equipo
+git clone <URL_FORK>
+git remote add upstream <URL_BETA>
+git remote -v
+touch nombre_archivo.txt
+nano nombre_archivo.txt
+cat nombre_archivo.txt
+git status
+git add nombre_archivo.txt
+git commit -m "Mensaje descriptivo"
+git push origin main
+git fetch upstream
+git merge upstream/main
+git pull origin main
