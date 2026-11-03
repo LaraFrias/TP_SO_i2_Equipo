@@ -4,4 +4,6 @@ a- Utilizando los comandos: "git fetch upstream" y "git merge upstream/main" par
 
 b- si puede hacerlo agregando el repositorio de GAMMA como remoto.
 
+c- si puede hacerlo agregando el repo de ALFA como remoto.
 
+d- no, no se pierden los datos si actualizas el fork.
